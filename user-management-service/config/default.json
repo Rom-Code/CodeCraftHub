@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "mongoURI": "mongodb://root:4Q6TIbJTNt3CeSKjyRWaybk1@172.21.138.188:27017",
+  "jwtSecret": "8e4e42aac018cefcea54d8d508b381e1cbebd666eeec2bd92d272c960e00f1d9"
+}
+
